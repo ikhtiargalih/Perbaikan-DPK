@@ -1,0 +1,104 @@
+C:\Users\tiplox\Documents\belajar css\index.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <img src="https://replit.com/@GalihIkhtiar/Belajar-html-1#IMG_20210718_092644_571.jpg">
+   <h3>Halo!!</h3>
+    <p>
+      Nama saya Galih.Saat ini saya merupakan siswa kelas10 program keahlian Pengembangan Perangkat Lunak dan Gim(PPLG) SMK Wikrama Bogor.Saya sedang
+mengembangkan keahlian diri dalam bidang Front End Development.Ingin berkenalan?
+Hubungi saya melalui Instagram atau email.   
+   </p>
+    <p>
+    <ul> 
+       <li>Galih Ikhtiar</li>
+       <li>Bogor,18 Februari</li>
+       <li>Instagram : @galih_leoo18</li>
+  <li>Email:galihikhtiar@smkwikrama.sch.id</li>
+    
+   <ul>
+  
+ <p>
+  
+  <h4>PENDIDIKAN</h4>
+
+</p>
+     <table border="1">
+        <thead>
+            <tr>
+                <th>Sekolah</th>
+                <th>Tahun</th>
+            </tr>
+        </thead>
+      <tbody>
+            <tr>
+                <td>SMK WIKRAMA BOGOR</br>SMP NEGERI 2 CIAWI</br>SDN NEGERI 03 TELUK PINANG</td>
+                <td>2021</br><p>2018s/d2020</br><p>2012s/d2017</td>
+            </tr>
+        </tbody>
+     </table>
+    
+     <p>
+       
+       <h4>PENGALAMAN ORGANISASI</h4>
+    
+     </p>
+     
+     <ul> 
+         <li>Menjadi juara 3 olimpiade basket Amaliah cup antar sekolah 2019</li>
+       <li>Menjadi juara 2 olimpiade basket Al ikhlas cup 2018 </li>
+     </ul>
+       
+    
+     <h4>SKILL PASSPORT</h4>
+
+     
+ <ul>
+  <li>Menginstalasi tools yang diperlukan untuk membuat website statis</li>
+<li>Menyusun kerangka web sitestatism enggunakan HTML</li>
+<li>Menggunakan CS eksternal untuk mengatur tampilan website statis</li>
+<li>Membuat tampilan website statis menjadi responsive</li> <li>Meluncurkan dan memelihara
+    eist</li>
+  </ul>
+  
+      </p
+   
+     <h4>INSPIRASI</h4>
+  
+  <p>
+     
+ 
+     <table border="1">
+        <thead>
+            <tr>
+                         
+           <th>brainly.co.id</th>
+                <th>detik.com</th>
+             <th>flixhq.ru</th>
+           
+            </tr>
+        </thead>
+      <tbody>
+            <tr>
+      
+<td>membahas tentang segala macam bentuk
+soal-soal serta mendapatkan jawabannya baik
+soal SD,SMP,SMA dan sebagainya</td>
+                <td>Informasi mengenai suatu berita atau
+kejadian yang ada di indonesia,politik,olah
+raga dan lainsebagainya<td>seputar perfilman,baik dalam negeri maupun
+luar negeri</td>
+            </tr>
+        </tbody>
+    
+      
+    
+    <script src="script.js"></script>
+  </body>
+</html>
